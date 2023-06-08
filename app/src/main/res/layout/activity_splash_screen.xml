@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/myRelative"
+    android:background="@drawable/home_b_2"
+    android:layout_height="match_parent"
+
+    tools:context=".Splash_Screen">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="220dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/homee"/>
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/splasbook"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:padding="8dp"
+        android:text="Smart App Dev"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/teal_200"
+        android:textSize="16sp"
+        android:textFontWeight="1000"
+        android:layout_alignParentBottom="true"
+        android:textStyle="bold"/>
+    <ProgressBar
+        android:id="@+id/Pbar"
+        android:layout_width="fill_parent"
+        android:layout_height="5dp"
+        style="@android:style/Widget.ProgressBar.Horizontal"
+        android:progressBackgroundTint="@color/dominant_color"
+        android:progressTint="#ff0000">
+    </ProgressBar>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/new_splash">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Books gives pulse literally"
+                android:textAlignment="center"
+                android:id="@+id/text1"
+                android:textSize="22sp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:fontFamily="casual"
+                android:layout_centerInParent="true"
+                android:textFontWeight="1000"
+                android:textColor="@color/teal_200"
+                android:textStyle="bold"/>
+
+            <pl.droidsonroids.gif.GifImageView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_below="@+id/text1"
+                android:layout_marginStart="50dp"
+                android:background="@drawable/coma" />
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

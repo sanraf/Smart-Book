@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/homeRelative"
+    android:background="@color/ocean"
+    tools:context=".Home">
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="fill_vertical"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="5dp"
+        android:rowCount="4"
+        android:columnCount="1">
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="fill"
+            android:layout_margin="5dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="5dp"
+            >
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:padding="3dp"
+                android:background="#023047"
+                >
+                <androidx.appcompat.widget.Toolbar
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    app:popupTheme="@style/ThemeOverlay.MyPopupTheme"
+                    android:theme="@style/ThemeOverlay.MyPopupTheme"
+                    android:id="@+id/toolbar1"
+                    app:title=" ">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Welcome to Smart-Book"
+                        android:textAllCaps="true"
+                        android:textColor="@color/white"
+                        android:gravity="center"
+                        android:layout_gravity="center"
+                        android:textStyle="bold|italic"
+                        android:textSize="16sp"/>
+
+                </androidx.appcompat.widget.Toolbar>
+
+
+
+            </RelativeLayout>
+
+
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="center|fill"
+            android:layout_margin="5dp"
+            app:cardElevation="10dp"
+            app:cardBackgroundColor="#023047"
+            app:cardCornerRadius="5dp"
+            >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#26f5347f"
+                android:gravity="start"
+                android:layout_margin="5dp"
+                android:id="@+id/msg"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="book "
+                    android:textAllCaps="true"
+                    android:textSize="18sp"
+                    android:textColor="#f5347f"
+                    android:fontFamily="cursive"
+                    android:textStyle="bold"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="16sp"
+                    android:text="o'clock"
+                    android:textAllCaps="true"
+                    android:textColor="#f5347f"
+                    android:fontFamily="cursive"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:paddingBottom="14dp"
+                android:paddingTop="14dp"
+                android:layout_below="@+id/msg"
+                android:layout_gravity="center"
+
+
+                >
+
+
+                <ImageView
+                    android:id="@+id/imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/home" />
+
+            </RelativeLayout>
+
+
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="fill"
+            android:layout_margin="5dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
+            >
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="ShortStory"
+                android:background="@drawable/home_b_2">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:id="@+id/content_1">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/home_textbckgnd"
+                        android:id="@+id/lineartext"
+                        android:layout_toStartOf="@+id/imageview1"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="Read Offline Short Stories"
+                            android:id="@+id/text1"
+                            android:paddingStart="5dp"
+                            android:textSize="16sp"
+                            android:textStyle="bold"
+                            android:textColor="@color/Bluer"
+                            android:singleLine="true"
+                            android:ellipsize="marquee"
+                            android:marqueeRepeatLimit="marquee_forever"
+                            android:scrollHorizontally="true"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/Home_Short_Stories"
+                            android:textSize="14sp"
+                            android:padding="5dp"
+                            android:id="@+id/text2"
+                            android:textStyle="bold"
+                            android:fontFamily="sans-serif-thin"
+                            android:textColor="@color/night_sky"
+                            />
+
+                    </LinearLayout>
+
+                    <ImageView
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_alignParentEnd="true"
+                        android:id="@+id/imageview1"
+                        android:layout_centerVertical="true"
+                        android:src="@drawable/black_icon"/>
+
+                </RelativeLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_margin="3dp"
+                    android:onClick="ShortStory"
+                    android:text="enjoy"
+                    android:textAllCaps="true"
+                    android:textAlignment="center"
+                    android:textSize="16sp"
+                    android:textColor="#f5347f"
+                    android:fontFamily="cursive"
+                    android:textStyle="bold"
+                    android:layout_below="@+id/content_1" />
+
+            </RelativeLayout>
+
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_gravity="fill"
+            android:layout_marginTop="5dp"
+            android:layout_margin="5dp"
+            app:cardElevation="10dp"
+            app:cardCornerRadius="10dp"
+            >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="LongStory"
+                android:background="@drawable/home_b_1">
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"
+                    android:id="@+id/content">
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/home_textbckgnd"
+                        android:orientation="vertical"
+                        android:layout_toEndOf="@+id/imageview2">
+
+                        <TextView
+                            android:id="@+id/text"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:paddingStart="5dp"
+                            android:paddingEnd="5dp"
+                            android:text="Read Long and Short Stories"
+                            android:textColor="@color/Bluer"
+                            android:textStyle="bold"
+                            android:textSize="16sp"
+                            android:singleLine="true"
+                            android:ellipsize="marquee"
+                            android:marqueeRepeatLimit="marquee_forever"
+                            android:scrollHorizontally="true"/>
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/Home_Long_Stories"
+                            android:id="@+id/text_view3"
+                            android:fontFamily="sans-serif-thin"
+                            android:padding="5dp"
+                            android:textColor="@color/night_sky"
+                            android:textStyle="bold"
+                            android:textSize="14sp"
+
+                           />
+
+                    </LinearLayout>
+
+
+                    <ImageView
+                        android:layout_width="95dp"
+                        android:layout_height="100dp"
+                        android:layout_margin="5dp"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentStart="true"
+                        android:id="@+id/imageview2"
+                        android:src="@drawable/clip_art" />
+
+
+                </RelativeLayout>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_margin="3dp"
+                    android:onClick="LongStory"
+                    android:text="enjoy"
+                    android:textSize="16sp"
+                    android:textColor="#f5347f"
+                    android:fontFamily="cursive"
+                    android:textAllCaps="true"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+
+
+
+
+
+
+        </androidx.cardview.widget.CardView>
+
+    </GridLayout>
+
+
+</androidx.core.widget.NestedScrollView>

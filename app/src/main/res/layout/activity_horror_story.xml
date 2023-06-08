@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    android:background="@color/navy"
+    android:orientation="vertical"
+    tools:context=".HorrorStory">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:elevation="10dp">
+        <androidx.appcompat.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:layout_collapseMode="pin"
+            android:id="@+id/toolbar1"
+            android:background="#00306754"
+            app:title=" " />
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/horrorpic"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fear And Suspense"
+            android:textColor="@color/white"
+            android:textSize="35sp"
+            android:layout_centerInParent="true"
+            android:fontFamily="cursive"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_marginTop="25dp"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/horrorscreen">
+
+        <ListView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/listviewid3"
+            android:dividerHeight="12dp"
+            android:divider="@color/tran"
+            android:padding="5dp"
+            android:listSelector="@drawable/listviewbackground"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

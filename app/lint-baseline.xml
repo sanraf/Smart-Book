@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 7.1.2" type="baseline" client="gradle" dependencies="false" name="AGP (7.1.2)" variant="fatal" version="7.1.2">
+
+    <issue
+        id="NamespaceTypo"
+        message="Unexpected namespace URI bound to the `&quot;android&quot;` prefix, was `http://schemas.android.com//apkres/android`, expected `http://schemas.android.com/apk/res/android`"
+        errorLine1="&lt;menu xmlns:android=&quot;http://schemas.android.com//apkres/android&quot;"
+        errorLine2="                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="src/main/res/menu/optiondots.xml"
+            line="2"
+            column="22"/>
+    </issue>
+
+</issues>

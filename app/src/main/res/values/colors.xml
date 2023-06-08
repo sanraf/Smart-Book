@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="matrix">#39ff14</color>
+    <color name="dominant_color">#F2BB66</color>
+    <color name="myBlue_color">#80357EC7</color>
+    <color name="Bluer">#0583d2</color>
+    <color name="nite">#1f1b24</color>
+    <color name="ocean">#0b2c41</color>
+    <color name="navy">#00000e</color>
+    <color name="red">#e3242b</color>
+    <color name="lite_red">#ff0000</color>
+    <color name="tran">#00C0C0C0</color>
+    <color name="listselector">#800000ff</color>
+    <color name="dominant_transp_color">#73F2BB66</color>
+    <color name="layout">#0000ff</color>
+    <color name="readColor">#023047</color>
+
+    <color name="night_mode">#1f1b24</color>
+    <color name="night_sky">#195f85</color>
+    <color name="light_mode">#dee4e7</color>
+    <color name="gray">#808080</color>
+    <color name="Default">#0b0b45</color>
+    <color name="dark_mode">#152238</color>
+    <color name="maroon_mode">#ff00ff</color>
+    <color name="purple_mode">#000080</color>
+    <color name="liteblue_mode">#80151b8d</color>
+    <color name="khaki">#ff9900</color>
+    <color name="yellow">#f8dc08</color>
+    <color name="brown">#a34E24</color>
+    <color name="adult">#b3FFFFFF</color>
+    <color name="night">#111b21</color>
+    <color name="adult_black">#b3000000</color>
+
+
+    <color name="A">#efd469</color>
+    <color name="B">#acdfdd</color>
+    <color name="C">#dfacea</color>
+    <color name="D">#ffefd8</color>
+    <color name="E">#fec994</color>
+    <color name="F">#f6f8e8</color>
+    <color name="G">#e88985</color>
+    <color name="H">#ffd7e9 </color>
+    <color name="I">#ff00ff</color>
+    <color name="J">#FF018786</color>
+    <color name="K">#c9c0bb</color>
+    <color name="L">#87ceeb</color>
+    <color name="M">#ab784e</color>
+    <color name="N">#b38481</color>
+    <color name="P">#1f1b24</color>
+    <color name="R">#FF6347</color>
+    <color name="S">#0583d2</color>
+    <color name="T">#4fd6f7</color>
+</resources>

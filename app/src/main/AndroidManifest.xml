@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.smartdappev.shortstories">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".Settings"
+        android:allowBackup="true"
+        android:icon="@drawable/b"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/b"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShortStories"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="m">
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7881857902310901~3766642899" />
+        <activity
+            android:name=".Idiom"
+            android:exported="false" />
+        <activity
+            android:name=".BookDescription"
+            android:exported="false" />
+        <activity
+            android:name=".FireBaseImage"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
+            android:name=".PDFHolder"
+            android:exported="false" />
+        <activity
+            android:name=".PDFBooks"
+            android:exported="false" />
+
+        <activity
+            android:name=".AppHelpPageTwo"
+            android:exported="false" />
+        <activity
+            android:name=".LoveStoryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Fiction"
+            android:exported="false" />
+        <activity
+            android:name=".Adult"
+            android:exported="false" />
+        <activity
+            android:name=".Novel"
+            android:exported="false" />
+        <activity
+            android:name=".Poems"
+            android:exported="false" />
+        <activity
+            android:name=".HorrorStory"
+            android:exported="false" />
+        <activity
+            android:name=".AfricanFables"
+            android:exported="false" />
+        <activity
+            android:name=".ShowBook"
+            android:exported="false" />
+        <activity
+            android:name=".TitleList"
+            android:exported="false"
+            android:theme="@style/Touch.AppCompat.Transparent.NoActionBar" />
+        <activity
+            android:name=".Splash_Screen"
+            android:exported="true"
+            android:theme="@style/Theme.SplashScreen.NoActionBar"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

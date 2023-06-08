@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pdf_bckgrnd"
+    tools:context=".PDFHolder">
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:id="@+id/toolbar1"
+        android:background="#400000ff"
+        app:title=" ">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView"
+            android:text="Books"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@color/red"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <ProgressBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myprogressbar"
+        android:layout_below="@+id/toolbar1"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:indeterminateBehavior="cycle"
+        android:indeterminate="true"
+        android:progressBackgroundTint="#ff0000"
+        android:backgroundTint="#ff0000"
+        android:progressTint="#ff0000"
+        android:visibility="gone"/>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mygridview"
+        android:layout_above="@+id/refresh"
+        android:layout_below="@+id/myprogressbar"
+        android:dividerHeight="10dp"
+        android:divider="@color/tran"
+        android:listSelector="@drawable/listviewbackground"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/refresh"
+        android:layout_marginTop="2dp"
+        android:textColor="@color/red"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:layout_alignParentBottom="true"
+        android:background="#400000ff"
+        android:text="Reload"/>
+
+
+</RelativeLayout>

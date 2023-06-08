@@ -1,0 +1,342 @@
+<resources>
+    <string name="app_name">Smart Book</string>
+
+
+    <string-array name="story_genre">
+        <item>love story</item>
+        <item>African Fables</item>
+        <item>Horror stories</item>
+        <item>poem</item>
+        <item>Novel</item>
+        <item>Adult</item>
+        <item>Fiction </item>
+        <item>Writer\'s Blog</item>
+    </string-array>
+
+    <string-array name="story_names">
+        <item>The man who moved a mountain</item>
+        <item>The bicycle ride</item>
+        <item>A well-deserved prom night</item>
+        <item>The second </item>
+        <item>No arms, no legs but love</item>
+        <item>Accident with a happy ending</item>
+        <item>A heartwarming farewell gift</item>
+        <item>Surgery</item>
+        <item>Runaway</item>
+        <item>The “make-up guy”</item>
+        <item>A disastrous accident</item>
+        <item>A transformed man</item>
+
+
+    </string-array>
+
+
+    <string-array name="Author_Name">
+        <item>The man who moved a mountain</item>
+        <item>IshNemi</item>
+        <item>The Unknown tales</item>
+        <item>The second</item>
+        <item>No arms, no legs but love</item>
+        <item>Accident with a happy ending</item>
+        <item>A heartwarming farewell gift</item>
+        <item>Surgery</item>
+        <item>Runaway</item>
+        <item>The “make-up guy”</item>
+        <item>A disastrous accident</item>
+        <item>A transformed man</item>
+
+
+    </string-array>
+
+    <string-array name="stories">
+        <item>
+There are people who say love can move mountains.\n
+This might not be physically possible, but Dashrath Manjhi,
+also known as the ‘Mountain Man’, came quite close.\n
+In one day of his life, his wife fell while crossing a nearby
+hill and hurt herself seriously.\n\n
+She needed quick medical assistance,but that wasn’t possible due to the hill that isolated their small village
+from the next town.\n
+Tragically enough, his wife died from the serious injuries
+before Dashrath could do anything about it.\n
+It was the night when Dashrath Manjhi
+decided to carve a small path through the mountain in order to give
+his village easier access to medical assistance.\n
+It was an ambitious plan and he was heavily ridiculed for it.\n
+But after working for 22 years with the greatest determination and willpower,
+a path was carved into the hill.\n
+Even though he was initially mocked
+and ridiculed for his mission to give his hometown easier access to the nearby town,
+he finally succeeded.\n\n
+His life’s work helped to reduce the distance between the two
+towns from 55 km to only 15 km, so that never again such a thing would happen.
+</item>
+        <item>
+It is the year 1975, when Charlotte Von Sledvin, a 19-year-old student of a Swedish royal family,
+travels to India to get a portrait made by a gifted artist. The artist was born into a poor
+Indian family of the lowest caste, also known as the “untouchables.” Despite the incredibly
+difficult circumstances, the artist named Pradyumna Kumar Mahanandia had gained an outstanding
+reputation for being a gifted painter. His reputation led Charlotte Von Sledvin to travel all
+the way to India to get her portrait done.
+
+\n\nBy the time the portrait was finished, the two had fallen in love. Pradyumna was fascinated with Charlotte’s beauty.
+Never before had he seen a more beautiful woman from the Western world.
+He gave his best to capture all her beauty in the portrait, yet never fully succeeded.
+Nonetheless, the portrait was magnificent and Charlotte fell for his simplicity and his beautiful character.
+Because of him, she spontaneously decided to stay longer in India. Out of a couple of days became weeks and then even months.
+The two had fallen so deeply in love that they decided to get married according to traditional Indian rituals.
+
+\n\nUnfortunately, the time came when Charlotte had to leave again in order to complete her studies in London.
+Thousands of miles separated the two but their feelings for each other never changed.
+They stayed in contact through letters, which they exchanged almost weekly with each other.
+Naturally, the newlyweds terribly struggled with the great distance between each other.
+Charlotte offered her husband to buy him air tickets, which he refused. He had not only decided to
+complete his studies first, but he had also set his mind on reuniting with the love of his life on his own terms.
+He even made her the promise that he would do anything he can to see her again.
+
+\n\nAfter Pradyumna had finished his studies, he took all his possessions and sold them.
+Unfortunately, the money he earned didn’t even come close to a flight ticket.
+All he could afford was a cheap and used bicycle. Many would have been greatly
+disappointed, some would have even given up. But not Pradyumna. Instead of allowing the difficult
+circumstances to stop him from seeing his beloved wife again, he met the decision to
+use what he had in order to see her again. Nothing could stop him from reuniting with his wife,
+even if that meant an exhausting bicycle ride half around the world.
+
+\n\nHis decision was the beginning of a bicycle journey from India to the Western world. Pradyumna took all his
+paintings and brushes along with him in order to financially support his endeavor. His voyage led
+him through eight countries and took more than four months. But eventually, he arrived at Charlotte’s hometown
+in Sweden and finally saw her again. From then on, the two did never leave each other’s side for too long.
+</item>
+        <item>
+Alex and his grandmother always had a unique bond with each other. He would spend hours
+with her, listening to his grandmother’s stories of a lifetime. She once told him that she
+had met his grandfather a long time after graduating from high school. This was also the reason
+why she was never asked out to go to prom. When the day of Alex’s prom had arrived, his
+grandmother was so excited for him. She had watched him save money for months so that he
+could afford a tuxedo and even a limousine. His grandmother eagerly waited to find out who
+Alex would be taking to the prom. But to her great surprise, he told her that he would
+be taking her to prom. He told her that every woman deserves to go to prom, no matter if
+they are 18 or 80.
+</item>
+        <item>
+The story of the building of the second Taj Mahal begins when Faizul Hasan Quadri and
+his wife Tajammuli Begum begin to realize that their marriage will remain childless.
+It is a difficult situation, especially for Tajammuli who begins to question if anyone
+will ever remember her after her death. Moved by his saddened wife, Faizul decided to
+erect her a monument so that his beautiful wife could be remembered for centuries.
+His decision marks the beginning of the construction of a scaled-down replica of the
+famous Indian monument.
+It has now become a location that attracts many tourists each year.
+</item>
+        <item>
+In 2012, bomb disposal expert Taylor Morris was severely injured after the explosion
+of an improvised bomb in Afghanistan. The explosion took all his limbs and changed the
+life of the 23-year-old US military soldier forever. While recovering from the injuries in
+hospital, Taylor was confronted with the painful realization that his limbs had gone.
+He also had to face the fact that he would be dependent on assistance for the rest of his life.
+It was an incredibly difficult situation not only for him but also his family and
+especially his long-term girlfriend Danielle. But instead of ever giving him up,
+Danielle became Taylor’s pillar in life. She helped him recover and took care of him during
+this incredibly challenging time.
+
+Danielle played an important role in Taylor’s quick recovery.
+She never went away from his side and assisted him greatly when he learned to walk again
+with his new prosthetic limbs. After Taylor had recovered, he proposed to his beloved
+girlfriend and they got married. It’s a beautiful ending of an incredibly inspiring love
+story that shows that nothing can ever stand in-between to people who really love each other.
+</item>
+        <item>
+When Frank’s wife had a car accident, she was so injured that she fell into a coma.
+Years passed but Frank did not stop visiting his wife at the hospital. Even though
+almost everyone – including the doctors – had given up hope, he remained faithful that she
+would one day recover. Every time he visited her, he began talking to her,
+recounting all those beautiful moments they spend with each other. One day,
+when he showed her the video of their wedding day, she slowly began to move her hand.
+She whispered his name and began gaining consciousness. Several weeks after she had woken up,
+she had fully recovered and was finally allowed to leave the hospital for good.
+When the couple left, she told Frank that she heard his voice while she was in a coma and
+that it was his voice that was the greatest aid in helping her to return to consciousness.
+</item>
+        <item>
+
+When Gene was diagnosed with melanoma, he had only been given six weeks left to live.
+It was a shocking diagnosis but Gene decided to use the time he had left to make all the
+necessary arrangements for his wife Carol, with whom he had been married for 30 years.
+He cashed out his pension and used the money to pay off the house they were living in.
+The second step was to arrange a trip for his wife Carol and the rest of the family to Italy.
+When they visited a specific church in Venice, a priest was already waiting for the couple.
+It was in this church that Gene’s parents had married more than 50 years ago. At that day,
+Gene and Carol renewed their wedding vows and had the most beautiful day.
+
+After Gene had died, his wife Carol discovered that he hid hundreds of Post-it notes around
+the entire house,
+shortly before he died. Throughout the course of many months, she found one note after another.
+The notes are beautiful and very personal statements meant to encourage
+Carol in this difficult time.
+But Gene also reminded his wife in these statements to fully enjoy every aspect of life,
+to sell his car and to move on with her life.
+It was the most heartwarming farewell gift one could ever imagine.
+</item>
+        <item>
+When a surgeon operated a little girl, complications started to arise. She lost a lot of blood
+and was in need of blood transfusion. However, she had blood type O, which wasn’t
+available in the hospital.
+The surgeon, therefore, asked the girl’s little brother, who was an O-type as well,
+if they could draw blood from him. He explained that it was incredibly important,
+or has he said, a matter of life and death. The young boy, seemingly afraid,
+sat a couple of moments in silence until he finally agreed. He got up and hugged his parents,
+wishing them goodbye. After the nurses had taken the blood from him, he whispered anxiously if
+they knew how many minutes he had left to live. He was absolutely convinced that he was going to
+die so that his sister could live. And he was willing to do so. When the nurses realized
+that the young boy thought he was going to die, they cheered him up and explain to
+him that he had many wonderful and joyful decades left to live.
+</item>
+        <item>
+When a young student of a Catholic Church asked her teacher about the reasons why she decided
+to become a religious sister, her teacher told her a heartwarming love story.
+Many years ago, when she was at a similar age, the teacher (let’s call her Ms.
+Patterson) fell in love with a young man stemming from a wealthy family.
+The two began seeing each other and quickly developed a deep connection with each other.
+Unfortunately, the young man’s family was not at all in agreement with the relationship.
+They even threatened to enroll their son at a university overseas and far away. As Ms. Patterson
+came from a poor background, she couldn’t possibly have afforded to go with him at that time.
+This meant that if they wanted to continue the relationship,
+they would be separated from each other if they wanted or not.
+
+But they both had fallen so in love with each other that ending the
+relationship – no matter in what way – was not an option.
+For this reason, they decided to run away. In great secrecy, they planned their escape
+and set these plans into action when the young man’s family finally found out about it.
+But instead of quickly returning back home after running away, the two never went back.
+They joined the church, took holy orders and began traveling the world for various humanitarian missions.
+The two spent 40 years traveling and even got married, shortly before the man’s life came to an end.
+</item>
+        <item>
+Dave is a make-up artist who regularly holds makeup artistry classes at the local community college.
+Usually, the majority of his students are middle-aged housewives who want to fine-tune their makeup skills.
+But this one time, he held a class that was attended by man as well.
+The new student was a gentleman in his best years with a seemingly boundless interest in makeup artistry.
+He was keen to learn as much as he possibly could and wouldn’t stop until he was satisfied with the result of his work.
+
+Understandably, the man was the number one subject of conversation when the other women were alone.
+Speculations quickly started to spread. Was he perhaps a transvestite?
+Why else would he attend such a class? The community college was placed in a conservative rural area,
+which is why the other participants were quite doubtful of the man’s intentions.
+
+Throughout the lessons, the man carefully listened and wrote everything down he learned.
+When the day and class were slowly coming to an end, the outer attendees simply
+could not hide their curiosity any longer. When they finally asked him why he was so
+interested in makeup artistry, he gave the most inspiring beautiful reply:
+
+He said, “You know, my beloved wife partially lost her eyesight because of diabetes.
+She’s no longer able to apply her makeup. I think she’s absolutely beautiful,
+even more so without makeup. She knows this and I tell her every day.
+But the thing is this,… she simply feels not comfortable leaving the home without make-up.
+She never went outside without wearing any makeup-up.
+Seeing the love of my life like this makes me really sad.
+So I decided to take this course to surprise her! I do not only want to learn how to apply her makeup;
+I want her to wear the most beautiful make-up so her inner beauty also shines on the outside.”
+</item>
+        <item>
+When Tonya was driving her daughter to school, she was a witness to a shocking car crash.
+The accident was pretty serious, so she got out of her car in order to see if she could help.
+There were two cars involved in the accident. One of the cars, an SUV, quickly started to catch fire.
+She immediately checked if there were passengers left in the car and saw an unconscious 14-year-old boy.
+Without hesitating, she pulled the car door open and brought the boy to safety.
+He was brought to a hospital where Tonya and her daughter visited him several times in order to help him recover.
+As time started to pass by, Tonya began to notice that her daughter started to go to the hospital on her own account.
+As it turns out, the two teens fell in love with each other and married each other when they had grown up.
+</item>
+        <item>
+
+One day Natalie found a worn down diary in the toolbox of her dad. It was his diary that he wrote roundabout the
+time he was 18 years old. Natalie absolutely loves her dad, who is not only the best dad but also a loving
+and kind husband to her mother. So wasn’t easy for her to open the diary, but eventually, she became so curious
+about his life that she decided to read it. The last entry in the diary was a short paragraph,
+hectically scribbled down. It said that at the time of writing the entry, he was 18 years old,
+an alcoholic who dropped out from college with a criminal record. Her dad also noted in the entry that one
+month later he would become a teen father. But he also made the promised to himself that he would set his life straight.
+That he would become the father for his little daughter that he never had.
+</item>
+
+
+    </string-array>
+
+
+
+    <string name="Love_Title">
+The man who moved a mountain, The bicycle ride, A well-deserved prom night, The second Taj Mahal, No arms, no legs but love, Accident with a happy ending, A heartwarming farewell gift, Surgery, Runaway, The \“make-up guy\”, A disastrous accident, A transformed man
+    </string>
+    <string name="Love_Title_A">
+        Love Title List
+    </string>
+
+    <string name="Moto_Notes">
+        PICK A STORY,READ A STORY, \"ESTORADEY\" YOU\'LL BE ALRIGHT
+    </string>
+    <string name="Moto_Notice">
+        Maxim
+    </string>
+
+
+    <string name="love">
+
+    </string>
+    <string name="About_The_App">
+        In this App i have tried to provide collection of short stories
+        \nfrom famous authors to up-coming young authors and their names,
+        \nsome of these short stories are been written by unknown authors
+        \nyet are still good short stories.
+        \nIf you find any mistakes in this App as whole,you can send me an
+        email to smartAppdevelopment1234@gmail.com
+        \ni will get back to you or rectify the mistakes as soon as possible
+    </string>
+
+    <string name="attribution"><b>Special Thanks to Freepik website for providing the following icons</b>\n\n
+
+<a href="https://www.freepik.com/free-vector/african-savannah-landscape-wild-nature-africa_21376678.htm#page=3&amp;query=africa&amp;position=17&amp;from_view=search">Image by upklyak</a> on Freepik\n
+Image by <a href="https://www.freepik.com/free-photo/blue-mist-smog-black-background_4251267.htm#query=blue%20smoke%20background&amp;position=48&amp;from_view=keyword&amp;track=ais">Freepik</a>\n
+<a href="http://www.freepik.com">Designed by Freepik</a>\n
+Image by <a href="https://www.freepik.com/free-photo/usa-independence-day-concept-with-old-declaration_2290333.htm#query=old%20paper%20burnt%20written&amp;position=38&amp;from_view=search&amp;track=ais">Freepik</a>\n
+Image by <a href="https://www.freepik.com/free-vector/background-galaxy-particles_5940671.htm#query=blue%20sstars%20background&amp;position=17&amp;from_view=search&amp;track=ais">Freepik</a>\n
+Image by <a href="https://www.freepik.com/free-vector/collection-young-people-reading_5172217.htm#page=4&amp;query=girl%20reading%20silhouette&amp;position=43&amp;from_view=keyword&amp;track=ais">Freepik</a>\n
+Image by <a href="https://www.freepik.com/free-vector/set-young-people-reading_5147237.htm?query=girl%20reading%20silhouette#from_view=detail_alsolike">Freepik</a>\n
+Image by <a href="https://www.freepik.com/free-photo/love-inscription-with-small-heart_3537551.htm#from_view=detail_serie">Freepik</a>\n
+Image by <a href="https://www.freepik.com/free-vector/flat-hand-drawn-hygge-lifestyle-illustration_12301251.htm#page=2F&amp;query=book%20reading%20illustrastion&amp;position=31&amp;from_view=search&amp;track=ais">Freepik</a>\n
+<a href="https://www.freepik.com/free-vector/ethnic-people-african-tribes-wild-animal_9721341.htm#page=2&amp;query=african%20map%20lion%20human&amp;position=21&amp;from_view=search&amp;track=ais">Image by brgfx</a> on Freepik\n
+<a href="https://www.freepik.com/free-photo/blank-catalog-magazines-book-mock-up-blue-background_1255169.htm#page=5&amp;query=book%20background&amp;position=4&amp;from_view=search">Image by jannoon028</a> on Freepik\n
+<a href="https://www.freepik.com/free-photo/3d-halloween-background-with-zombie-hand-bursting-out-ground_17308320.htm#query=horror%20background&amp;position=2&amp;from_view=search">Image by kjpargeter</a> on Freepik\n
+<a href="https://www.freepik.com/free-vector/isometric-icon-with-colorful-books-white-background-vector-illustration_23580825.htm#query=isometric%20icon%20with%20colorful%20book&amp;position=14&amp;from_view=search&amp;track=country_rows_v1">Image by macrovector</a> on Freepik\n
+<a href="https://www.freepik.com/free-vector/study-online-during-coronavirus_24382772.htm#query=book%20and%20sunsat%20reading%20illustrationand&amp;position=23&amp;from_view=search&amp;track=ais">Image by rawpixel.com</a> on Freepik\n
+<a href="https://www.freepik.com/free-vector/autumn-watercolor-background-with-leaves_9221810.htm?query=dry%20leaves&amp;collectionId=1698&amp;page=2&amp;position=29&amp;from_view=collections">Image by pikisuperstar</a> on Freepik\n
+<a href="https://www.freepik.com/free-vector/offline-concept-illustration_18352146.htm#query=lost%20internet%20connection&amp;position=4&amp;from_view=search&amp;track=sph">Image by storyset</a> on Freepik\n
+<a href="https://www.freepik.com/free-vector/elephant-office-with-working-businesspeople_32069087.htm#query=idiom&amp;position=15&amp;from_view=search&amp;track=sph">Image by upklyak</a> on Freepik\n
+<a href="https://www.freepik.com/free-photo/stack-books-black-wooden-table_21708612.htm#query=school%20books%20library%20bookshelf&amp;position=44&amp;from_view=search&amp;track=sph">Image by fabrikasimf</a> on Freepik\n
+Image by <a href="https://www.freepik.com/free-photo/halloween-wallpaper-with-cemetery-night_19055598.htm#page=2&amp;query=horror%20background&amp;position=10&amp;from_view=search&amp;track=sph">Freepik</a>\n
+<a href="https://www.freepik.com/free-vector/isometric-icon-with-colorful-books-white-background-vector-illustration_23580825.htm#query=blue%20book%20background&amp;position=33&amp;from_view=search&amp;track=sph">Image by macrovector</a> on Freepik\n
+<a href="https://www.freepik.com/free-vector/sunset-ocean-red-sky-with-sun-going-down-sea-surrounded-with-mountains-beautiful-nature-scenic-landscape-background-evening-heaven-view-gulls-flying-water-cartoon-vector-illustration_17995521.htm#query=orange%20sky%20sunset%20ocean%20wave&amp;position=41&amp;from_view=search&amp;track=sph">Image by upklyak</a> on Freepik
+
+    </string>
+
+    <string name="About_Homepage">
+        All the categories and genre of short stories are listed here on the Homepage
+    </string>
+    <string name="About_View">
+       you can view title-list contained  in a particular category
+    </string>
+    <string name="About_editmode">
+       Edit your text-font short story and set your screen to dark-mode,light-mode and back to default
+    </string>
+    <string name="Home_Message">
+      Never Date Or Trust Anyone Who Never Read Or Bought A Book In Their Entire Life
+    </string>
+    <string name="Home_Short_Stories">
+      Read more about Love stories, Fables, Horrors, Poems, Novels, Fiction that contains funny stories,and  Erotic short-stories
+    </string>
+    <string name="Home_Long_Stories">
+     It wouldn\'t be so fun without long texts to stimulate your adrenaline,so enjoy every possible good book from classic to modern best selling authors
+    </string>
+    <string name="app_overview">app overview</string>
+
+
+</resources>

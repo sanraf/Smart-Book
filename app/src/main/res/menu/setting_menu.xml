@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<item android:id="@+id/item1"
+    android:title=""
+    android:icon="@drawable/ic_baseline_menu_24"
+    app:showAsAction="always">
+    <menu>
+
+        <item android:id="@+id/item2"
+            android:title="Theme"
+            android:icon="@drawable/ic_baseline_color_lens_24"
+            app:showAsAction="ifRoom">
+            <menu>
+                <item android:id="@+id/item6"
+                    android:title="White Theme"
+                    android:icon="@drawable/white_colors_24"
+                    app:showAsAction="ifRoom"/>
+
+                <item android:id="@+id/item7"
+                    android:title="Dark Theme"
+                    android:icon="@drawable/dark_colors_24"
+                    app:showAsAction="ifRoom"/>
+
+                <item android:id="@+id/item10"
+                    android:title="Night Theme"
+                    android:icon="@drawable/night_colors_24"
+                    app:showAsAction="ifRoom"/>
+
+                <item android:id="@+id/item8"
+                    android:title="Night Sky"
+                    android:icon="@drawable/maroon_colors_24"
+                    app:showAsAction="ifRoom"/>
+
+                <item android:id="@+id/item5"
+                    android:title="Purple Theme"
+                    android:icon="@drawable/purple_colors_24"
+                    app:showAsAction="ifRoom"/>
+
+                <item android:id="@+id/item9"
+                    android:title="Reset to Default"
+                    android:icon="@drawable/default_colors_24"
+                    app:showAsAction="ifRoom"/>
+            </menu>
+        </item>
+
+    </menu>
+
+
+</item>
+
+</menu>

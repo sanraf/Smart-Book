@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152349446547",
+    "firebase_url": "https://shortstory-e9050-default-rtdb.firebaseio.com",
+    "project_id": "shortstory-e9050",
+    "storage_bucket": "shortstory-e9050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152349446547:android:e808a11594a63144441866",
+        "android_client_info": {
+          "package_name": "com.smartdappev.shortstories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152349446547-kbeu8eeodio5954pkva5p22m282hbreo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR9dI3aKyMwUPs4DbObPu5dug9fwVz8ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152349446547-kbeu8eeodio5954pkva5p22m282hbreo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

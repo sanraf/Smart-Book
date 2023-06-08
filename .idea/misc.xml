@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable-v24/ic_baseline_color_white_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/adultbackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/afrobackgroun.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/background_volume.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/blue1_edit_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/blue_book_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/blue_check_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/blue_get_app_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/blue_reader_mode_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/book_bgnd.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/book_image_bckgrnd.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/border.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/cardview_background.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/curved_rite_corner.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/dark_colors_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/dark_mode.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/default_colors_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/description_bckgrng.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/exit_bck_1.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/exit_button.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/exitbackground.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/fictbackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/help_info_background.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/home_b_1.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/home_b_2.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/home_textbckgnd.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/horrorbackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_alt_route_24.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_color_lens_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_today_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_volume_off_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_baseline_volume_up_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/idiom_background.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/idiombackground.xml" value="0.175" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/info_bckgrng.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/layout_1.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/layout_2.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/layout_3.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/layout_4.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/layout_bckgrnd.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/layout_list.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/light_mode.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/linear_back_holder_2.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/linear_notes_holder.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/listviewbackground.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/load.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/lovebackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/maroon_colors_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/maxim_bckgrnd.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/maxim_button.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/new_splash.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/night_colors_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/notes_bckgrnd.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/novelbackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/pdf_bckgrnd.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/pdf_button.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/pdf_button_2.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/poembackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/purple_colors_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/read_book.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/readpagebackground.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/round_idiombutton.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/roundbutton_adult.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/roundbutton_horror.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/roundbutton_writer.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/roundcorner.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/the_blog.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/title_list_bckgrnd.xml" value="0.1255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/tranroundbutton.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/white_colors_24.xml" value="0.1655" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/drawable/writerbackground.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout-v26/activity_show_book.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout-v28/activity_book_description.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_add_new_notes.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_add_new_story.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_add_nota.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_adult.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_african_fables.xml" value="0.18" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_app_help.xml" value="0.13292641573414718" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_app_help_page_two.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_book_description.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_exit_dialog.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_fiction.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_fire_base_image.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_horror_story.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_idiom.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_loading.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_love_story.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_maxim.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_my_story.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_notes_pad.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_novel.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_pdfbooks.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_pdfholder.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_poems.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_pop_up.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_read_mode_notes.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_show_book.xml" value="0.2" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_show_my_story.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_splash_screen.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_title_list.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_view_book.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_view_notes.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_welcome_page.xml" value="0.5" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/activity_writerblog.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/app_view.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/check.xml" value="0.13953488372093023" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/collapse_model.xml" value="0.12907608695652173" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/exit_app.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/idiom_page.xml" value="0.21" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/item_cardview.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/item_view.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/iterm_shimmer.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/loadbook.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/maxim.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/network_service.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/nota_cell.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/pdf_model.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/row_model.xml" value="0.25" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/s_b.xml" value="0.18" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/sample_adult.xml" value="0.21" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/sample_horror.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/sample_idom.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/layout/sample_view.xml" value="0.22" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/menu/exit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/menu/home_menu.xml" value="0.1675929884566054" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/menu/optiondots.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/menu/search_bar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/menu/setting_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/ShortStories/app/src/main/res/menu/showbook_menu.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

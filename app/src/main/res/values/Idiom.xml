@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="idiom_tittle">
+        <item>Absence makes the heart grow fonder</item>
+        <item>Achilles heel</item>
+        <item>Acting like a chicken with its head cut-off</item>
+        <item>Acting like an angel</item>
+        <item>Adversity makes strange bedfellows</item>
+        <item>Against the clock</item>
+        <item>Albatross around one\'s neck</item>
+        <item>All roads lead to Rome</item>
+        <item>Apple a day keeps the doctor away</item>
+        <item>Apple doesn\'t fall too far from the tree</item>
+        <item>As fate would have it</item>
+        <item>As mad as a hatter</item>
+        <item>At the blink of an eye</item>
+        <item>Back-talk</item>
+        <item>Bad faith</item>
+        <item>Badger or pester someone</item>
+        <item>Band aid solution</item>
+        <item>Bare one\'s soul</item>
+        <item>Barking dog never bites (also Talk is cheap)</item>
+        <item>Bated breath</item>
+        <item>Beat around the bush</item>
+        <item>Beat someone with the ugly stick</item>
+        <item>Beauty is in the eye of the beholder</item>
+        <item>Beauty is only skin-deep</item>
+        <item>Between a rock and a hard place</item>
+        <item>Big brother is watching you</item>
+        <item>Bird in the hand is worth two in the bush</item>
+        <item>Birds of a feather Flock together</item>
+        <item>Birthday suit</item>
+        <item>Bite off more than one can chew</item>
+        <item>Bite one\'s head off</item>
+        <item>Blind ambition</item>
+        <item>Blowing a lot of hot air</item>
+        <item>Bob\'s your uncle</item>
+        <item>Break a leg</item>
+        <item>Bull in a china shop</item>
+        <item>Call in the cavalry</item>
+        <item>Call off the dogs</item>
+        <item>Calm before the storm</item>
+        <item>Can\'t see the forest for the trees</item>
+        <item>Carpe diem</item>
+        <item>Cast in stone</item>
+        <item>Catching some \"z\'s\"</item>
+        <item>Catch more flies with honey than with vinegar</item>
+        <item>Cat got your tongue?</item>
+        <item>Cat\'s out of the bag</item>
+        <item>C\'est la vie</item>
+        <item>Chicken and egg situation</item>
+        <item>Cross my heart and hope to die</item>
+        <item>Death and taxes, the only two things that are certain</item>
+        <item>Devil makes work for idle hands</item>
+        <item>Devil\'s advocate</item>
+        <item>Dog eat dog</item>
+        <item>Don\'t know someone from Adam</item>
+        <item>Dressed to the nines or Dress to kill</item>
+        <item>Early bird gets the fattest worm</item>
+        <item>Eeny meeny miny moe</item>
+        <item>Eye candy</item>
+        <item>Get religion</item>
+        <item>Get the monkey off my back</item>
+        <item>Golden Rule</item>
+        <item>pulling on your heartstring</item>
+        <item>Humble pie</item>
+        <item>Jack of all trades</item>
+        <item>Let bygones by bygones</item>
+        <item>Let sleeping dogs lie</item>
+        <item>Loose lips sink ships</item>
+        <item>Make your bed, now lie in it</item>
+        <item>Mind over matter</item>
+        <item>Never cry wolf</item>
+        <item>No pain, no gain</item>
+        <item>No rhyme or reason</item>
+        <item>No such thing as a free lunch</item>
+        <item>Not the sharpest knife in the drawer</item>
+        <item>Open up a can of worms</item>
+        <item>Out of the frying pan and into the fire</item>
+        <item>Over someone\'s head</item>
+        <item>Pins and needles</item>
+        <item>Playing without a full deck</item>
+        <item>Poker face</item>
+        <item>Pull someone\'s leg</item>
+        <item>Putting the cart before the horse</item>
+        <item>Quid pro quo</item>
+        <item>Rob Peter to pay Paul</item>
+        <item>Salt of the earth</item>
+        <item>See you later alligator, in a while crocodile</item>
+        <item>Separate the wheat from the chaff</item>
+        <item>Shit hits the fan</item>
+        <item>Shoot oneself in the foot</item>
+        <item>Silver spoon in one\'s mouth</item>
+        <item>Silver tongue</item>
+        <item>Six ways from Sunday</item>
+        <item>Slippery slope</item>
+        <item>Slow and steady wins the race</item>
+        <item>Sly dog</item>
+        <item>Speak softly and carry a big stick</item>
+        <item>Spick and span</item>
+        <item>Spill the beans</item>
+        <item>Star-crossed lovers</item>
+        <item>Stubborn as a mule</item>
+        <item>Take care of the little things</item>
+        <item>Talk the talk, walk the walk</item>
+        <item>Tap-dance around</item>
+        <item>That\'s all she wrote</item>
+        <item>That\'s the way the cookie crumbles</item>
+        <item>Third time\'s a charm</item>
+        <item>Three strikes, you\'re out!</item>
+        <item>Ticking crocodile</item>
+        <item>When it rains, it pours</item>
+
+
+
+    </string-array>
+
+    <string name="idiom_tittle_list">
+        Absence makes the heart grow fonder,
+        Achilles heel,
+        Acting like a chicken with its head cut-off,
+        Acting like an angel,
+        Adversity makes strange bedfellows,
+        Against the clock,
+        Albatross around one\'s neck,
+        All roads lead to Rome,
+        Apple a day keeps the doctor away,
+        Apple doesn\'t fall too far from the tree,
+        As fate would have it,
+        As mad as a hatter,
+        At the blink of an eye,
+        Back-talk,
+        Bad faith,
+        Badger or pester someone,
+        Band aid solution,
+        Bare one\'s soul,
+        Barking dog never bites (also Talk is cheap),
+        Bated breath,
+        Beat around the bush,
+        Beat someone with the ugly stick,
+        Beauty is in the eye of the beholder,
+        Beauty is only skin-deep,
+        Between a rock and a hard place,
+        Big brother is watching you,
+        Bird in the hand is worth two in the bush,
+        Birds of a feather Flock together,
+        Bite off more than, one can chew
+        Bite one\'s head off,
+        Blind ambition,
+        Blowing a lot of h,ot air
+        Bob\'s your uncle,
+        Break a leg,
+        Bull in a china shop,
+        Call in the cavalry,
+        Call off the dogs,
+        Calm before the storm,
+        Can\'t see the forest for the trees,
+        Carpe diem,
+        Cast in stone
+        Catching some \"z\'s\",
+        Catch more flies with honey than with vinegar,
+        Cat got your tongue?,
+        Cat\'s out of the bag,
+        C\'est la vie,
+        Chicken and egg situation,
+        Cross my heart and hope to die,
+        Death and taxes, the only two things that are certain,
+       Devil makes work for idle hands,
+        Devil\'s advocate,
+        Dog eat dog,
+        Don\'t know someone from Adam,
+        Dressed to the nines or Dress to kill,
+        Early bird gets the fattest worm,
+        Eeny meeny miny moe,
+        Eye candy,
+        Get religion,
+        Get the monkey off my back,
+        Golden Rule,
+        pulling on your heartstring,
+        Humble pie,
+        Jack of all trades,
+        Let bygones by bygones,
+        Let sleeping dogs lie,
+        Loose lips sink ships,
+        Make your bed, now lie in it,
+        Mind over matter,
+        Never cry wolf,
+        No pain, no gain,
+        No rhyme or reason,
+        such thing as a free lunch,
+        Not the sharpest knife in the drawer,
+        Open up a can of worms,
+        Out of the frying pan and into the fire,
+       Over someone\'s head,
+        Pins and needles,
+        Playing without a full deck,
+        Poker face,
+        Pull someone\'s leg,
+      Putting the cart before the horse,
+        Quid pro quo,
+       Rob Peter to pay Paul,
+        Salt of the earth,
+       See yo later alligator, in a while crocodile,
+        Separate the wheat from the chaff,
+        Shit hits the fan,
+        Shoot oneself in the foot,
+        Silver spoon in one\'s mouth,
+       Silver tongue,
+        Six ways from Sunday,
+        Slippery slope,
+        Slow and steady wins the race,
+       Sly dog,
+        Speak softly and carry a big stick,
+        Spick and span,
+        Spill the beans,
+        Star-crossed lovers,
+        Stubborn as a mule,
+        Take care of the little things,
+        Talk the talk, walk the walk,
+        Tap-dance around,
+        That\'s the way the cookie crumbles,
+        Third time\'s a charm,
+        Three strikes, you\'re out!,
+        Ticking crocodile,
+        When it rains, it pours,
+
+
+    </string>
+
+    <string name="idiom_tittle">
+   IDIOM
+
+    </string>
+
+
+    <string-array name="idiom_content">
+
+        <item>
+A proverbial expression meaning when someone\'s away, they are appreciated more than when they are present\n\n
+\"Jack and May get along so much better now that they live in different cities,Absence makes the heart grow fonder.\"
+        </item>
+        <item>
+A weakness or vulnerability, often used to specify the weakness in a person, organization or system
+        </item>
+        <item>
+Panicking and just running or doing without thinking (the result might not change anything anyway)
+        </item>
+        <item>
+Being very good
+        </item>
+        <item>
+A proverbial expression meaning that when faced with a conflict or difficult situation, people unite, despite their differences.\n\n
+\"Owen and Oliver never agreed on anything, but they came together to fight the oil drilling proposal. Adversity makes strange bedfellows.\"
+        </item>
+        <item>
+An expression meaning to do something as fast as possible and try to finish it before a certain time\n\n
+\"She\'s racing against the clock to find the cure to cancer.\"
+        </item>
+        <item>
+An annoying burden he/she can\'t get rid of or a punishment that won\'t stop, similar to \"a cross to bear\"\n\n
+\"That last final exam is really an albatross around my neck.\"
+        </item>
+        <item>
+An expression meaning all paths or activities lead to the center of things, which was true in Rome, where all roads radiated from the city center
+        </item>
+        <item>
+A common English proverb encouraging people to eat apples or other fruits and vegetables, to ensure good health\n\n
+\"I eat at least two pieces of fresh fruit every day. An apple a day keeps the doctor away.\"
+        </item>
+        <item>
+An expression usually referring to a child who exhibits the same behavior as his/her parent
+        </item>
+        <item>
+An expression meaning things turned out the way they were meant to be
+        </item>
+        <item>
+A long time ago, people who made hats used a substance that gave them an illness which made people think they were crazy
+        </item>
+        <item>
+An expression meaning a very short period of time (as long as it takes to blink?)\n\n
+\"At the blink of an eye, the concert was over. It went by so fast!\"
+        </item>
+        <item>
+To inappropriately reply to someone else (usually an authority-figure) in a disrespectful way
+        </item>
+        <item>
+Deceiving others or lying to oneself or refusal to confront facts or choices\n\n
+\"She sold that car in bad faith, she knew the car didn\'t run, she shouldn\'t have sold it to that guy.\"
+        </item>
+        <item>
+An expression meaning to bother someone repeatedly about the same thing\n\n
+\"Mom, stop badgering me, I\'ll clean my room, I promise.\"
+        </item>
+        <item>
+An expression meaning a temporary solution to a problem\n\n
+\"Putting her on leave is just a band aid solution, she really should be fired.\"
+        </item>
+        <item>
+Meaning to show your vulnerability or emotions to another\n\n
+\"She really bared her soul to him, telling him about her difficult childhood.\"
+        </item>
+        <item>
+An expression meaning someone\'s threat or danger is overstated
+        </item>
+        <item>
+An expression meaning so eager, anxious, excited, or frightened that the person is almost holding his/her breath\n\n
+\"I\'m waiting with bated breath for my true love to return home.\"
+        </item>
+        <item>
+An expression meaning someone who may not follow conventions, takes action without peer pressure
+        </item>
+        <item>
+An expression describing someone as extremely unattractive\n\n
+\"Wow, he\'s so far from good looking, I think someone beat him with the ugly stick.\"
+        </item>
+        <item>
+Beauty cannot be judged objectively, what appeals to one person may not to another
+        </item>
+        <item>
+An expression that means a pleasing appearance is not a guide to someone\'s character\n\n
+\"See that beautiful lady smiling over there? She\'s actually a mean, cold-hearted spinster. Beauty is only skin-deep.\"
+        </item>
+        <item>
+An expression meaning to have no choice or ability to change course
+        </item>
+        <item>
+Any ruler or government that invades the privacy of its citizens
+        </item>
+        <item>
+Something of some value that\'s already acquired. It\'s better to have a lesser but certain advantage than the possibility of a greater one that may come to nothing
+        </item>
+        <item>
+Describing people with similar characters, backgrounds, interests, or beliefs\n\n
+\"Birds of a feather flock together. Jeremy and Isaac both love exactly the same music.\"
+        </item>
+        <item>
+An expression meaning naked, the \"suit\" you were born in
+        </item>
+        <item>
+Taking on more responsibility than is warranted\n\n
+\"Working at the grocery store and the restaurant while being a full time student is biting off more than you can chew.\"
+
+        </item>
+        <item>
+An expression meaning to reply brusquely or sharply to someone\n\n
+\"She practically bit my head off when I admitted to her that I copied her homework.\"
+        </item>
+        <item>
+An expression meaning to seek to improve only things for yourself, not like ambition, which is about improving and changing things in the world\n\n
+\"He\'s got blind ambition, all he can think about is getting into business school.\"
+        </item>
+        <item>
+Talking excessively without really saying anything important
+        </item>
+        <item>
+It means \"it\'s not what you know, but who you know\" referring to unearned favoritism, named after the British prime minister Robert \"Bob\" Cecil who appointed his undeserving nephew as Chief Secretary of ireland in 1887.
+It can also mean \"and there you have it\" \n\n
+Example: \"Right over left, left over right, and Bob\'s your uncle, a knot.\"
+        </item>
+        <item>
+Do well at a performance or on stage
+        </item>
+        <item>
+Someone who is very careless in the way they move or behave
+        </item>
+        <item>
+A reference to the only organization of any power that could be quickly sent to impose the rule of law on the unruly populace\n\n
+\"You better call in the cavalry, we need professional work laying these tiles properly.\"
+        </item>
+        <item>
+An expression meaning to stop attacking or criticizing someone
+        </item>
+        <item>
+An expression referring to the quiet period just before trouble erupts
+        </item>
+        <item>
+An expression meaning to not get so engrossed in details that you lose sight of the big picture
+        </item>
+        <item>
+The Latin term translated as \"seize the day\" means to make the most of one\'s experiences or opportunities\n\n
+\"Make the most of this teaching opportunity, you can influence so many students, carpe diem!\"
+        </item>
+        <item>
+From Babylonian times, meaning something is defined and unchangeable
+\"It\'s not cast in stone, we can change the rules if we want to.\"
+        </item>
+        <item>
+I\'m going to get some sleep
+        </item>
+        <item>
+An expression meaning you can win people to your side more easily by gentle persuasion and flattery than by hostile confrontation\n\n
+\"Focus on what she did well, instead of what mistakes she made if you want her to volunteer again, you can catch more flies with honey than with vinegar.\"
+        </item>
+        <item>
+An expression meaning you are unusually quiet, or speechless as in not knowing what to say\n\n
+\"How come you aren\'t answering my question, cat got your tongue?\"
+        </item>
+        <item>
+An expression describing something is revealed and no longer a secret\n\n
+\"Looks like the cat\'s out of the bag now, Jeremy knows about his surprise party.\"
+        </item>
+        <item>
+A French phrase often used in English meaning \"That\'s life\"
+        </item>
+        <item>
+An expression meaning it is not clear which event preceded the other\n\n
+\"By announcing the class, it may have increased enrollment, unless it was already full because she\'s such a good teacher. It\'s a chicken and egg situation.\"
+        </item>
+        <item>
+An expression meaning to promise
+        </item>
+        <item>
+Benjamin Franklin\'s practical epigram observing that while many things in life aren\'t certain, death and taxes are
+        </item>
+        <item>
+An expression, usually used to remind children to remain busy, so they don\'t have time to create mischief (or commit crimes)
+        </item>
+        <item>
+An expression meaning to pursue a line of questioning which questions or opposes whatever position is being expressed
+        </item>
+        <item>
+An expression meaning a very competitive situation in which people can be cruel and relentless
+        </item>
+        <item>
+An expression referring to the character in the Old Testament of The Bible meaning to have never met someone and not know anything about him/her\n\n
+\"I just met Donnie this afternoon, before that, I wouldn\'t have known him from Adam.\"
+        </item>
+        <item>
+Describing a very elaborate manner of dress\n\n
+\"Her prom dress had sequence from head to toe, she was really dressed to the nines.\"
+        </item>
+        <item>
+You will be rewarded for acting early
+        </item>
+        <item>
+An expression referring to a childhood counting game to determine who is \"it\" and \"not it\"
+        </item>
+        <item>
+An expression meaning someone is very attractive and pleasant to look at
+        </item>
+        <item>
+An expression meaning to become serious about something, usually after a powerful experience\n\n
+\"After I got that F on my first math quiz, I got religion and now do practice problems every night so I can pass the class.\"
+        </item>
+        <item>
+Resolve a problem that\'s been bothering you
+        </item>
+        <item>
+A moral lesson in The Bible (Book of Matthew) and in many stories: \"Do unto others as you would have them do unto you\" means to treat other people the way you want to be treated\n\n
+\"Remember the golden rule, be kind to your brother.\"
+        </item>
+        <item>
+One\'s deepest feelings of love or compassion
+        </item>
+        <item>
+An expression meaning to be forced to acknowledge one\'s deficiencies or errors\n\n
+\"Rodger got served some humble pie, he couldn\'t perform that surgery as well as his colleagues.\"
+        </item>
+        <item>
+An expression meaning someone can do just about any task themselves or is well-versed in many skills
+        </item>
+        <item>
+An expression meaning to forget about unpleasant things that happened in the past, and especially to forgive and forget something bad that someone has done, similar to \"bury the hatchet\"\n\n
+\"I forgive you for insulting my cat, let\'s just let bygones by bygones and move on.\"
+        </item>
+        <item>
+An expression meaning to leave something alone
+        </item>
+        <item>
+An expression referring to people sharing secret information that ruins everything
+        </item>
+        <item>
+The expression means to make a decision and now one must accept the circumstances\n\n
+\"You decided to buy the cheap brand of chocolate, rather than the more expensive one you liked best, you made your bed, now you have to lie in it.\"
+        </item>
+        <item>
+An expression meaning to use willpower to overcome physical problems, similar to \"A cloudy day is no match for a sunny disposition\"\n\n
+\"Although I remember what the cheese smelled like when I made it, mind over matter, I\'m going to enjoy tasting it now.\"
+        </item>
+        <item>
+An expression cautioning against falsely claiming a wrong or a crime, because when something actually goes wrong, no one will believe you
+        </item>
+        <item>
+An expression meaning that it takes effort to make progress
+        </item>
+        <item>
+An expression meaning there is no explanation for why something is so
+        </item>
+        <item>
+When someone gives something or performs an act of kindness, there is generally an expectation or obligation to \"pay them back\"
+        </item>
+        <item>
+A derogatory expression describing someone who isn\'t very smart or sharp
+        </item>
+        <item>
+An expression describing actions or information which introduces unnecessary complications or new information that makes a situation more difficult
+        </item>
+        <item>
+An expression meaning going from bad to worse
+        </item>
+        <item>
+An expression meaning beyond someone\'s ability to understand
+        </item>
+        <item>
+An expression meaning the tingling sensation experienced in recovering from numbness, or an anxious feeling waiting for something to arrive or happen\n\n
+\"I\'m on pins and needles, waiting for them to post the test results so I can see whether I got an A.\"
+        </item>
+        <item>
+An expression meaning someone is crazy or doesn\'t have common sense\n\n
+\"That man is babbling to himself, he must not be playing with a full deck.\"
+        </item>
+        <item>
+An expression meaning keeping an expression on one\'s face that doesn\'t reveal one\'s intentions
+        </item>
+        <item>
+An expression meaning to tell someone something that is not true as a way of joking with them\n\n
+\"You\'re pulling my leg, I know you weren\'t voted most likely to succeed, I saw your yearbook.\"
+        </item>
+        <item>
+An expression meaning to jump ahead, to do one thing before taking care of what should be done first
+        </item>
+        <item>
+An exchange of gifts or services, you do something for me, I\'ll do something for you
+        </item>
+        <item>
+Biblical reference, taking something from someone to give to another, without any real gain
+        </item>
+        <item>
+A decent, dependable, unpretentious person, with origins from the Bible, Book of Matthew\n\n
+\"He\'s such a gentle soul, the salt of the earth.\"
+        </item>
+        <item>
+A popular children\'s rhyme meaning \"goodbye\"
+        </item>
+        <item>
+An expression meaning to distinguish valuable things or people from worthless ones\n\n
+\"OK this final trial-out is going to determine the best singer, it will really separate the wheat from the chaff.\"
+        </item>
+        <item>
+An expression referring to when something bad happens, the consequences reveal themselves\n\n
+\"After the city council approved that affordable housing budget, the shit hit the fan and their social services costs were twice what they budgeted.\"
+        </item>
+        <item>
+An expression describing inadvertently making a situation worse for oneself
+        </item>
+        <item>
+An expression symbolic of wealth, especially inherited wealth, describing someone born into a wealthy family\n\n
+\"She\'s got a silver spoon in her mouth, that trust fund means she won\'t have to work a day in her life.\"
+        </item>
+        <item>
+Having an ability to speak with a persuasive and eloquent manner\n\n
+\"He was the most eloquent man, he had a real silver tongue.\"
+        </item>
+        <item>
+An expression meaning thoroughly, every possible way, exhausted all alternatives\n\n
+\"I edited that story six ways from Sunday, and it\'s still not good enough to publish.\"
+        </item>
+        <item>
+An idea or course of action which will lead to something unacceptable or disastrous\n\n
+\"Steal a small piece of candy from the store may seem harmless, but it\'s a slippery slope because it\'s stealing, and that\'s breaking the law.\"
+        </item>
+        <item>
+An expression meaning sometimes persevering is enough to finish ahead of others who may be faster at the beginning
+        </item>
+        <item>
+Someone who used devious, dishonest or misleading means to ensure a favorable outcome\n\n
+\"You sly dog, I had no idea you were throwing me a party!\"
+        </item>
+        <item>
+An expression encouraging someone to behave by using a tangible threat for non-compliance; no yelling is required\n\n
+\"I\'m speaking softly and carrying a big stick: he knows I\'ll take away the car keys if he doesn\'t finish his chores before dinner.\"
+        </item>
+        <item>
+An expression describing something as clean, tidy or orderly\n\n
+\"Well, you\'ve put all your toys away, your room looks spick and span now.\"
+        </item>
+        <item>
+An expression to reveal secret information, usually unintentionally\n
+\"He spilled the beans about Marc and Cindy getting married, it was supposed to be a secret.\"
+        </item>
+        <item>
+An expression meaning an ill fated love that won\’t end well: its origin is the prologue of Romeo and Juliet, who are the embodiment of the phrase that Shakespeare coined.\n\n
+\"From forth the fatal loins of these two foes, A pair of star-cross\'d lovers take their life.\"
+        </item>
+        <item>
+An expression meaning refusing to change one\'s mind or course of action despite pressure to do so, unyielding or resolute\n\n
+\"He\'ll never change his mind about planting in May, he\'s stubborn as a mule.\"
+        </item>
+        <item>
+An expression suggesting to take care of little things before they turn into big things
+        </item>
+        <item>
+An expression meaning to do what you say
+        </item>
+        <item>
+An expression meaning to improvise to avoid confronting an uncomfortable issue or person\n\n
+\"Jeanette is tap-dancing around Richard instead of confronting him with the problem.\"
+        </item>
+        <item>
+An expression used to convey that there is or was nothing more to be said about a matter.\n\n
+\"I\'ve already told you everything I know, that\'s all she wrote.\"
+        </item>
+        <item>
+An expression meaning to accept the circumstances\n\n
+\"Well, you couldn\'t have done anything, that\'s just the way the cookie crumbles.\"
+        </item>
+        <item>
+A superstitious observation about the number three, sometimes it takes three times to complete something successfully. Opposite of \"three strikes, you\'re out!\"\n\n
+\"Third time\'s a charm, after two tries you finally got the anchor secured.\"
+        </item>
+        <item>
+A baseball reference, if you don\'t get something done in three attempts, it is time to stop. Opposite of \"third time\'s a charm\"\n\n
+\"You tried to fix the sink three times and it still leaks. Three strikes, you\'re out. Time to hire a plumber.\"
+        </item>
+        <item>
+A Peter Pan reference from the Captain Hook character symbolizing time, alternatively, \"the croc is ticking\"\n\n
+            <b>\“I suppose it\'s like the ticking crocodile, isn\'t it? Time is chasing after all of us.\”</b>
+        </item>
+        <item >
+An expression meaning that when something bad happens, more bad things will follow, similar to \"go from bad to worse\"
+
+        </item>
+
+    </string-array>
+</resources>

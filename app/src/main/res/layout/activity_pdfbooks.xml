@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/purple_700"
+    android:layout_height="match_parent"
+    android:id="@+id/pdfHolderLayout"
+    tools:context=".PDFBooks">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:id="@+id/network_layout">
+        <include
+            layout="@layout/network_service"/>
+
+    </RelativeLayout>
+
+
+
+
+    <com.github.barteksc.pdfviewer.PDFView
+        android:layout_width="match_parent"
+        android:padding="4dp"
+        android:layout_margin="3dp"
+        android:visibility="gone"
+        android:layout_height="match_parent"
+        android:id="@+id/pdfviewer"/>
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/progressbar"
+        android:layout_marginStart="0dp"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:background="@drawable/coma" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Loading Book"
+        android:textAlignment="center"
+        android:id="@+id/text1"
+        android:textSize="20sp"
+        android:layout_marginTop="-20dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:fontFamily="casual"
+        android:layout_below="@+id/progressbar"
+        android:textFontWeight="700"
+        android:textColor="@color/teal_200"
+        android:textStyle="bold"/>
+
+    <com.facebook.shimmer.ShimmerFrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="3dp"
+        android:id="@+id/bookShimmer">
+
+        <include
+            layout="@layout/loadbook"/>
+
+    </com.facebook.shimmer.ShimmerFrameLayout>
+
+
+</RelativeLayout>
